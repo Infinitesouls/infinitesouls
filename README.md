@@ -1,6 +1,6 @@
-<h1 align="left">Hello, Im Infinitesouls 👋</h1>
-<h3 align="left">I'm A Front-end Developer And Im from Indonesia<h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Infinitesouls&style=for-the-badge" width="20%"></p><br>
+<h1 align="center">Hello, Im Infinitesouls 👋</h1>
+<h3 align="center">I'm A Front-end Developer And Im from Indonesia<h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Infinitesouls&style=for-the-badge" width="20%"></p><br>
 <img src="https://st3.depositphotos.com/19075074/34171/v/450/depositphotos_341710420-stock-illustration-evening-city-panorama-vector-sunset.jpg" width="100%" style="border-radius :10px; object-fit : cover; height : 20vh;"><br><br>
 <div align="left" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=Infinitesouls&theme=onedark"><br>
