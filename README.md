@@ -10,7 +10,7 @@
         🔭 I’m currently working on Chasper
         🌱 I’m currently learning Bot Development
         🤝 I’m looking for help with Different Developers
-        📫 How to reach me is.zena91@gmail.com
+        📫 How to reach me Join My Discord Server
         ⚡ Fun fact I like Music, Anime And You As My Heart <3
         
 <br>
